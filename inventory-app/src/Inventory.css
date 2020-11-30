@@ -1,0 +1,18 @@
+.inventoryContainer {
+    border: solid 2px darkgray;
+    display: flex;
+    flex-direction: row;
+    background-color: lightgrey;
+   
+    
+}
+
+div {
+
+    border: solid 2px darkgray;
+    flex: 1;  
+}
+
+h2 {
+    padding-left: 5px;
+}
